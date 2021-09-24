@@ -1,0 +1,3 @@
+{
+    "files": ["main.qml","qml/pages/rougeDHCP_Detector.qml","qml/pages/test.qml","qml/pages/dhcp_starvation_detector.qml","qml/pages/allTools.qml","qml/pages/dhcp_starvation.qml","main.py","qml/pages/rougeDHCP.qml"]
+}
